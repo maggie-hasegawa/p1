@@ -31,8 +31,8 @@
 
 		<div id="links">
 			<h3>Project 2 Title</h3>
-			View: [link]
-			Github: [link]
+			View: <a href="p2.maggiehasegawa.me">p2.maggiehasegawa.me</a><br>
+			Github: <a href="https://github.com/maggie-hasegawa/p2">https://github.com/maggie-hasegawa/p2</a>
 			
 			<h3>Project 3 Title</h3>
 			View: [link]
