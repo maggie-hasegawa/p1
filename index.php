@@ -35,8 +35,8 @@
 			Github: <a href="https://github.com/maggie-hasegawa/p2">https://github.com/maggie-hasegawa/p2</a>
 			
 			<h3>Project 3 Title</h3>
-			View: [link]
-			Github: [link]
+			View: <a href="http://p3.maggiehasegawa.me">p3.maggiehasegawa.me</a><br>
+			Github: <a href="https://github.com/maggie-hasegawa/p3">https://github.com/maggie-hasegawa/p3</a>
 			
 			<h3>Project 4 Title</h3>
 			View: [link]
